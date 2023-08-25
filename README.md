@@ -19,7 +19,7 @@
 
 
 ## Description
-This application is a ech blog that allows users to login, make new posts, comment on post, and delete posts.
+This application is a tech blog that allows users to login, make new posts, comment on post, and delete posts.
 
 
 
